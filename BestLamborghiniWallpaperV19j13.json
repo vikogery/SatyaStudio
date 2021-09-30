@@ -40,12 +40,12 @@
 "APPLOVIN_BANNER_ID" : "04a52130244fc69x",
 "APPLOVIN_INTERSTITIAL_ID" : "12b24cfa23bb989x",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "bank jenius",
-"HPK_ADMOB3" : "bank jago",
-"HPK_ADMOB4" : "telkomsel",
-"HPK_ADMOB5" : "donasi",
+"HPK_ALIENDROID" : "Used Cars For Sale",
+"HPK_ADMOB1" : "Car Insurance",
+"HPK_ADMOB2" : "Car Donate",
+"HPK_ADMOB3" : "Best Online Car Shop",
+"HPK_ADMOB4" : "Car Seat Covers",
+"HPK_ADMOB5" : "Car Magazine",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -53,32 +53,20 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
-"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+"TAPDAQ_APP_ID" : "6155c1f008fe6c2d735d6f0b",
+"TAPDAQ_CLIENT_KEY" : "c87e612c-3527-4c3d-a1ad-326c62686410",
 
-"BUTTON_RATING" : "RATING",
-"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_RATING" : "RATE APP",
+"BUTTON_SHARE" : "SHARE TO FRIENDS",
 "BUTTON_START" : "START",
 
-"EXIT_POPUP_DIALOG" : "
-jika kamu menikmati aplikasi ini
-
-bantu kami dengan rating bintang 5 ya
-
-klik tombol rating
-
-",
-"RATE_BUTTON" : "RATING 5 STARS",
-"LATER_BUTTON" : "LATER",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-wah aplikasi ini bagus banget
-aku udah nyobain 
-coba deh kamu donwload sekrang juga
-
-",
-"MORE_BUTTON" : "SHARE VIA WHATSAPP",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"EXIT_POPUP_DIALOG" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates.",
+"RATE_BUTTON" : "RATE & REVIEW",
+"LATER_BUTTON" : "HOME",
+"ENABLE_SHARE_BUTTON" : false,
+"SHARE_TXT" : "Superb App, Please Download Now",
+"MORE_BUTTON" : "Recommended App",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.SatyaStudio.RallyFury.Wallpaper",
 
 "REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
