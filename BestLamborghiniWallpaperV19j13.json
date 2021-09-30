@@ -1,0 +1,90 @@
+{
+  "redirect" : {
+
+"JSON_POPUP_WAIT" : "Server Ready - v19j13 ",
+
+"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : true,
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode FAN         FAN backup Unity Backup Startapp
+//     * Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+
+"INTERS_COUNT_WEB" : 5,
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : false,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"STARAPPID" : "YOUR_APP_ID",
+
+"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
+"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
+"UNITY_TEST_MODE" : false,
+
+"APPLOVIN_BANNER_ID" : "ISIAN",
+"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
+
+"HPK_ALIENDROID" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "bank jenius",
+"HPK_ADMOB3" : "bank jago",
+"HPK_ADMOB4" : "telkomsel",
+"HPK_ADMOB5" : "donasi",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+"BUTTON_RATING" : "RATING",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_START" : "START",
+
+"EXIT_POPUP_DIALOG" : "
+jika kamu menikmati aplikasi ini
+
+bantu kami dengan rating bintang 5 ya
+
+klik tombol rating
+
+",
+"RATE_BUTTON" : "RATING 5 STARS",
+"LATER_BUTTON" : "LATER",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+wah aplikasi ini bagus banget
+aku udah nyobain 
+coba deh kamu donwload sekrang juga
+
+",
+"MORE_BUTTON" : "SHARE VIA WHATSAPP",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+
+
+  }
+}
+
+
