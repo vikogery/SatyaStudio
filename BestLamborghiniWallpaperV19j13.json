@@ -6,7 +6,7 @@
 "MODE_NO_ADS" : false,
 "MODE_BACKUP_ADS" : true,
 
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 //     * mode pengaturan iklan
 //     * Mode ADMOB       Admob backup Unity Backup Startapp
@@ -20,7 +20,7 @@
 "PENGATURAN_IKLAN_INTER" : "TAPDAQ",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 5,
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -35,7 +35,7 @@
 "UNITY_BANNER" : "Banner_Android",
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "4385083",
-"UNITY_TEST_MODE" : true,
+"UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "04a52130244fc69x",
 "APPLOVIN_INTERSTITIAL_ID" : "12b24cfa23bb989x",
