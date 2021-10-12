@@ -1,7 +1,7 @@
 {
   "redirect" : {
  
-"json_popup_wait" : "Server Ready",
+"json_popup_wait" : "Please wait ...",
   
 "mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
@@ -61,12 +61,12 @@
 "Button_Share" : "SHARE to FRIENDS",
 "Button_Start" : "START",
 
-"exit_popup_dialog" : "Help us by giving a 5 stars rating, so we keep the spirit of providing the latest updates.",
+"exit_popup_dialog" : "Help us by giving a 5 stars rating so we keep the spirit of providing the latest updates",
 "rate_button" : "Rate us Now",
 "later_button" : "Rate Later",
 "enable_Share_button" : true,
-"Share_TXT" : "Superb App Please Download Now ",
-"more_button" : "Share This App",
+"Share_TXT" : "Superb App Please Download Now",
+"more_button" : "Share this App",
 "url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
 
   }
