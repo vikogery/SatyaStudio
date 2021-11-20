@@ -20,12 +20,12 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 20,
+"inter_count" : 10,
 
-"enable_strap" : true,
+"enable_strap" : false,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
@@ -64,10 +64,10 @@
 "exit_popup_dialog" : "Help us by giving a 5 stars rating so we keep the spirit of providing the latest updates",
 "rate_button" : "Rate us Now",
 "later_button" : "Rate Later",
-"enable_Share_button" : true,
+"enable_Share_button" : false,
 "Share_TXT" : "Superb App Please Download Now",
-"more_button" : "Share this App",
-"url_more_apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE "
+"more_button" : "Recommended App",
+"url_more_apps" : "https://play.google.com/store/apps/details?id=com.SatyaStudio.RallyFury.Wallpaper"
 
   }
 }
