@@ -20,12 +20,12 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 10,
+"inter_count" : 20,
 
-"enable_strap" : false,
+"enable_strap" : true,
 "enable_strap_Splah" : false,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
