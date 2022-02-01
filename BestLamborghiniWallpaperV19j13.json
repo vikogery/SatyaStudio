@@ -68,8 +68,8 @@
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.SatyaStudio.RallyFury.Wallpaper",
 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"REDIRECT_TRAFFIC" : true,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.naturebackground.wallpaperhdnature"
 
 
   }
