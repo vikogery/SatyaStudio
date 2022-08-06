@@ -16,15 +16,15 @@
 //     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
 
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 1,
 
 "ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
-"ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
+"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
 "STARAPPID" : "209589050",
 
@@ -32,9 +32,9 @@
 "ADMOB_INTER" : "ca-app-pub-4765095539204939/8694731754",
 "ADMOB_NATIV" : "ca-app-pub-4765095539204939/7381650086",
 
-"UNITY_BANNER" : "Banner_Android",
-"UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4385083",
+"UNITY_BANNER" : "Banner_Axndroid",
+"UNITY_INTERSTITIAL" : "Interstxitial_Android",
+"UNITY_GAME_ID" : "43850x83",
 "UNITY_TEST_MODE" : false,
 
 "APPLOVIN_BANNER_ID" : "04a52130244fc69x",
@@ -68,7 +68,7 @@
 "MORE_BUTTON" : "Recommended App",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.SatyaStudio.RallyFury.Wallpaper",
 
-"REDIRECT_TRAFFIC" : true,
+"REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.naturebackground.wallpaperhdnature"
 
 
